@@ -1,1 +1,1 @@
-# this is a react covid-19 tracker.
+https://booreda123.github.io/covid19/
